@@ -1,7 +1,7 @@
 from fltk import *
 from time import sleep
 from random import randint
-
+#Pour compiler  python3 snake.py
 
 # dimensions du jeu
 taille_case = 15
